@@ -6,12 +6,8 @@
 Merupakan aplikasi web CRUD data karyawan sederhana, 
 menggunakan ReactJS untuk frontend dan Kotlin untuk backend.
 
-Package yang digunakan:
-- openjdk 11.0.8
-- node v14.16.1
-- yarn 1.22.10
+Frontend React telah dideploy di alamat berikut:
+https://data-karyawan-client.herokuapp.com
 
-Untuk menjalankan:
-- download project sebagai zip, extract, hasil extract adalah folder_project
-- jalankan `./gradlew/bootRun` dari folder_project
-- jalankan `yarn start` dari folder_project/client
+Frontend terhubung ke RESTful API yang dideploy di:
+https://data-karyawan-api.herokuapp.com/api/employees
